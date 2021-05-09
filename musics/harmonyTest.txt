@@ -1,0 +1,108 @@
+Track 1: size = 6
+
+[]
+[]
+[]
+0
+Track 2: size = 3
+
+[]
+[]
+[]
+0
+Track 3: size = 27
+
+[3.0, 4.0, 4.0, 5.0, 5.0, 6.0, 7.0, 7.0, 7.0, 10.5, 10.5, 10.5, 11.0, 12.0, 13.0, 14.75, 14.75, 14.75, 15.0, 15.0, 15.0, 18.5, 18.5, 18.5]
+[true, false, true, false, true, false, true, true, true, false, false, false, true, true, true, false, false, false, true, true, true, false, false, false]
+[C3, C3, E3, E3, G3, G3, C3, E3, G3, C3, E3, G3, C3, E3, G3, C3, E3, G3, C3, G3, E3, C3, G3, E3]
+24
+Track 4: size = 28
+
+[]
+[]
+[]
+0
+Track 5: size = 28
+
+[]
+[]
+[]
+0
+Track 6: size = 28
+
+[]
+[]
+[]
+0
+Track 7: size = 28
+
+[]
+[]
+[]
+0
+Track 8: size = 28
+
+[]
+[]
+[]
+0
+Track 9: size = 28
+
+[]
+[]
+[]
+0
+Track 10: size = 28
+
+[]
+[]
+[]
+0
+Track 11: size = 28
+
+[]
+[]
+[]
+0
+Track 12: size = 27
+
+[]
+[]
+[]
+0
+Track 13: size = 28
+
+[]
+[]
+[]
+0
+Track 14: size = 28
+
+[]
+[]
+[]
+0
+Track 15: size = 28
+
+[]
+[]
+[]
+0
+Track 16: size = 28
+
+[]
+[]
+[]
+0
+Track 17: size = 28
+
+[]
+[]
+[]
+0
+Track 18: size = 28
+
+[]
+[]
+[]
+0
